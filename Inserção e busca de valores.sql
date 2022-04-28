@@ -28,9 +28,4 @@ join matricula m
 on a.idAluno = m.idMatricula
 join curso c
 on c.idCurso = m.Curso_idCurso;
-
-
-
-
-
                     
